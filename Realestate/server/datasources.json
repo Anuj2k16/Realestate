@@ -11,5 +11,16 @@
     "name": "dev",
     "user": "postgres",
     "connector": "postgresql"
-  }
+  },
+
+  "prod": {
+    
+    "url":"postgres://vpxjygoxrhikit:0f0199ed178b2a5e42d098d5d5be2a4b239a6b7ee8227f25b20efca921b720b2@ec2-184-73-189-190.compute-1.amazonaws.com:5432/deg718setfob6"
+  
+  }  
+  
+  
+  
 }
+
+
