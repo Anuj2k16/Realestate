@@ -14,9 +14,8 @@
   },
   "prod": {
     
-	"connector": "postgresql",
-    "url":"postgres://hhcddmqztdgula:def2619c4df64176ee61a94fc40c657429c730b9f7b6e4106d8c9046b0e552be@ec2-23-23-244-83.compute-1.amazonaws.com:5432/d81sojkhun19bs"
-  
+    "url":"postgres://hhcddmqztdgula:def2619c4df64176ee61a94fc40c657429c730b9f7b6e4106d8c9046b0e552be@ec2-23-23-244-83.compute-1.amazonaws.com:5432/d81sojkhun19bs",	
+	"connector": "postgresql"
   }  
   
   
