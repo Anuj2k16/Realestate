@@ -3,18 +3,9 @@
     "name": "db",
     "connector": "memory"
   },
-  "dev": {
-    "host": "localhost",
-    "port": 5432, 
-    "database": "dev_db",
-    "password": "admin",
-    "name": "dev",
-    "user": "postgres",
-    "connector": "postgresql"
-  },
   "prod": {
     
-    "url":"postgres://hhcddmqztdgula:def2619c4df64176ee61a94fc40c657429c730b9f7b6e4106d8c9046b0e552be@ec2-23-23-244-83.compute-1.amazonaws.com:5432/d81sojkhun19bs",	
+    "url":"postgres://iejqizkokwdohd:34ed9b71655708696246c7b1e881dbc7cef4cacb82b0e43b8f7858e54222c3b8@ec2-54-235-153-124.compute-1.amazonaws.com:5432/d7u27j68mbodtr",	
 	"connector": "postgresql"
   }  
   
