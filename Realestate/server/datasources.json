@@ -14,7 +14,8 @@
   },
   "prod": {
     
-    "url":"postgres://vpxjygoxrhikit:0f0199ed178b2a5e42d098d5d5be2a4b239a6b7ee8227f25b20efca921b720b2@ec2-184-73-189-190.compute-1.amazonaws.com:5432/deg718setfob6"
+	"connector": "postgresql"
+    "url":"postgres://hhcddmqztdgula:def2619c4df64176ee61a94fc40c657429c730b9f7b6e4106d8c9046b0e552be@ec2-23-23-244-83.compute-1.amazonaws.com:5432/d81sojkhun19bs"
   
   }  
   
